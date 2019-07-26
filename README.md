@@ -30,7 +30,10 @@ Linux yetki yükseltmesi  ile ubuntu 16.04
 
 Windows Server IIS,FTP,DNS, AD&DC Kurulumu
 
+Etki ALanı Üzerinde Kuralla Tanımlama
+
 Windows Yetki yükseltilmesi ve Kullanıcı eklenmesi (Etki alanında bulunan kullanıcı için)
+
 
 Kablosuz ağlar crack işlemleri (Web,Wpa ve Wpa2)
 
