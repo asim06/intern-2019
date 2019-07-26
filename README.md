@@ -3,9 +3,9 @@
 
 ### Raporların İçeresinde Bulunan Konular
 
-Teorik Protokoller
+Protokoller hakkında  araştırma (Teorik Özet)
 
-Dns Tunnelleme
+Dns Tunnelling with Iodine
 
 Debian 9 üzerine Dns kurulumu (bind)
 
@@ -24,14 +24,21 @@ ekleme, domain yapısını elde etme)
 
 Dos saldırı yöntemleri ve incelenmesi
 
-Pivoting işlemi
+Pivoting işlemi 
 
 Linux yetki yükseltmesi  ile ubuntu 16.04 
 
 Windows Server IIS,FTP,DNS, AD&DC Kurulumu
 
-Windows Yetki yükseltilmesi ve Kullanıcı eklenmesi
+Windows Yetki yükseltilmesi ve Kullanıcı eklenmesi (Etki alanında bulunan kullanıcı için)
 
 Kablosuz ağlar crack işlemleri (Web,Wpa ve Wpa2)
 
-Voip lab ortamı oluşturulması ve Aktif bilgiler toplama,Mitm ile oturum bilgileri çalma, Dos saldırısı, exploit işlemi
+Voip lab ortamı(Trixbox IP-PBX Sunucu,VulnVOIP,Zoiper Sofphone classic) oluşturulması ve Aktif bilgiler toplama, Mitm ile oturum bilgileri çalma, Dos saldırısı, exploit işlemi
+
+Pfsense ile Snort Kullanımı ( SnorT; bağlantı işlemleri, veritabani güncelleme, Wan ve Lan interfaceleri için kurallar tanımla, Port tarama tespit ve Engel)
+
+Pfsense Port Yönlendirme İşlemi
+
+
+
