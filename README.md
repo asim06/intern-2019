@@ -1,5 +1,5 @@
 # intern
-## 1 Temmuz - 1 Ağustos arasında yapılan staj içeresinde ki uygulamalar
+## 1 Temmuz - 26 Temmuz arasında yapılan staj içeresinde ki uygulamalar
 
 ### Raporların İçeresinde Bulunan Konular
 
