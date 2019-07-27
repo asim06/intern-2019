@@ -69,4 +69,7 @@ Pfsense Port Yönlendirme İşlemi
 
 ![targetpc](https://user-images.githubusercontent.com/25990177/61953360-dbee8600-afbe-11e9-9de0-6ae7ea75582b.png)
 
+![block by snort](https://user-images.githubusercontent.com/25990177/61999256-95d01a00-b0c5-11e9-8520-4ecf4a14abf8.png)
+
+
 
